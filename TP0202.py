@@ -12,3 +12,4 @@ alto = float (input("Ingrese el alto de la pared: "))
 LtPinturaNec = float (ancho * alto / 10)
 print("Cantidad de pintura necesaria:", LtPinturaNec, "Lts.")
 
+print("Test git")
